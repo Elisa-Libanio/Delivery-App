@@ -1,0 +1,43 @@
+body {
+    background-image: url(‘/Users/guest1/sd-013-c-project-delivery-app/front-end/src/images/cerveja.jpeg’);
+    background-size: cover;
+    color: rgb(7, 7, 6);
+    font-size: 25px;
+  }
+  .login-page {
+    margin-bottom: 20px;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
+  .loginPage {
+    margin-top: 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
+  .loginInput {
+    height: 50px;
+  }
+  button {
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .main {
+    margin-bottom: 20px;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
